@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="BillText">Enter your Bill:</string>
+    <string name="TipTypeText"></string>
+    <string name="Get_total">push here to get your total price</string>
+    <string name="Total_Price">Total price is:</string>
+    <string name="Note">Write your bill price on the line below</string>
+    <string-array name="Tips_Type">
+        <item>Poor</item>
+        <item>Good</item>
+        <item>Excellent</item>
+    </string-array>
+</resources>
